@@ -4,3 +4,8 @@ server:
 spring:
   application:
     name: "@project.name@"
+
+logging:
+  level:
+    net:
+      manikiam: DEBUG
