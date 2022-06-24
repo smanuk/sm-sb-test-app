@@ -1,0 +1,11 @@
+server:
+  port : 40010
+
+spring:
+  application:
+    name: "@project.name@"
+
+logging:
+  level:
+    net:
+      manikiam: DEBUG
